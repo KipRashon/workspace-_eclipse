@@ -1,0 +1,12 @@
+package xssf.workbook;
+
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class CreateWorkBook {
+	public static void main(String args[])
+	{
+		//Create a blank workbook
+		XSSFWorkbook workbook= new XSSFWorkbook();
+	}
+
+}

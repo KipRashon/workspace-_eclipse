@@ -1,0 +1,11 @@
+import java.io.*;
+import java.util.*;
+
+public class readFile{
+	public static void main(String args[]) throws Exception {
+		File f= new File("C:\\Users\\Rashon\\Documents\\study\\material_science.txt");
+		FileInputStream st= new FileInputStream(f);
+		System.out.println(st.readAllBytes());
+		
+	}
+}

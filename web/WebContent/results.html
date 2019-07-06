@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/themes/rhea/css/main.css" media="screen, projection" />
+        <link rel="stylesheet" type="text/css" href="/css/form.css" media="screen, projection"/>
+	<link rel="stylesheet" type="text/css" href="/assets/5b4559bd/css/styles.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/aa8037ef/detailview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/aa8037ef/gridview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1089ccc0/pager.css" />
+<script type="text/javascript" src="/assets/dff1bb83/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/dff1bb83/jquery.yii.js"></script>
+<script type="text/javascript" src="/assets/dff1bb83/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/5b4559bd/js/Chart.min.js"></script>
+<title>JKUAT Students&#039; Portal - Exam</title>
+	<script type="text/javascript">
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  	ga('create', 'UA-9956376-2', 'auto');
+  	ga('require', 'displayfeatures');
+	ga('send', 'pageview');
+	</script>
+</head>
+
+<body>
+
+<div class="container" id="page">
+
+	<div id="header">
+		<div id="logo" style="overflow: hidden">
+			<div style="float: left"> 
+				<img class="resize" src="/images/jkuat-logo.png" alt="Logo" />			</div>	 
+			<div style="float: left; padding: 20px;">
+				 JKUAT Students&#039; Portal 
+			</div>
+						<div id="details-area">
+			 Welcome, NDICHU TIMOTHY [<tt>ENE212-0076/2017</tt>]			 	<div style="text-align: right; margin: 20px 10px 0 0; "> 
+			 		<a href="/site/changePassword">Change password</a> | <a href="/site/logout">Logout</a>			 	</div>
+			</div>
+					</div>
+	</div><!-- header -->
+	 <div class="flash-success" style="margin-top: -36px;">
+        A new android application for JKUAT Portal is now available.<a href="/app/index">Download from here</a>    	</div>
+	<div id="mainmenu">
+		<ul id="yw2">
+<li><a href="/site/home">Home</a></li>
+<li><a href="/FeeStatement/index">Fee statement</a></li>
+<li class="active"><a href="/Exam/index">Exam results</a></li>
+<li><a href="/RegUnits/index">Units Registration</a></li>
+<li><a href="/Library/index">Library</a></li>
+<li><a href="/Api/evaluation">Evaluation</a></li>
+<li><a href="/StudentID/index">Student ID</a></li>
+<li><a target="_BLANK" href="https://sites.google.com/a/students.jkuat.ac.ke/jkuatstudents/">Past Papers &amp; Passlists</a></li>
+</ul>	</div><!-- mainmenu -->
+			<div class="breadcrumbs">
+ &raquo; <span>Exam</span></div><!-- breadcrumbs -->
+	
+	<div id="main-content">
+		<div class="container">
+	<div id="content">
+		<h1>Exam results</h1>
+<div style="margin: 0 auto; width: 90%; overflow: hidden;">
+	<div style="overflow: hidden;">
+<!--	
+<h4>Under Maintenance Please come back later.</h4>
+	-->
+	<div style="float: left; width: 70%;">
+		<table class="detail-view" id="yw0"><tr class="odd"><th>Student's name</th><td>NDICHU TIMOTHY</td></tr>
+<tr class="even"><th>Registration No.</th><td>ENE212-0076/2017</td></tr>
+<tr class="odd"><th>Course</th><td>B.Sc.  in Electronic and Computer Engineering</td></tr>
+<tr class="even"><th>Year of Study</th><td>Year1</td></tr>
+<tr class="odd"><th>Academic Year</th><td>2017/2018</td></tr>
+</table>	</div>
+			
+		<div class="form">
+			<div style="float: right; width: 25%; position: relative;">
+			<form id="year-of-study-form" action="/exam/index" method="post"><label for="Marks_year_of_study" class="required">Year Of Study <span class="required">*</span></label>			<div class="styled-select blue semi-square">
+			<select name="Marks[year_of_study]" id="Marks_year_of_study">
+<option value="">Select year of study</option>
+<option value="Year1" selected="selected">Year 1</option>
+<option value="Year2">Year 2</option>
+<option value="Year3">Year 3</option>
+<option value="Year4">Year 4</option>
+<option value="Year5">Year 5</option>
+</select>			</div>
+			</form>			</div>
+		</div>
+	</div>
+		<div style="width:90%" id="unit-grid" class="grid-view">
+<div class="summary">Displaying 1-16 of 16 results.</div>
+<table class="items">
+<thead>
+<tr>
+<th id="unit-grid_c0">Unit Code</th><th id="unit-grid_c1">Unit Name</th><th id="unit-grid_c2">Grade</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>SMA 2171</td><td>Digital Logic</td><td>A</td></tr>
+<tr class="even">
+<td>EEE 2110</td><td>Workshop Practice I</td><td>A</td></tr>
+<tr class="odd">
+<td>SCH 2109</td><td>Chemistry I</td><td>A</td></tr>
+<tr class="even">
+<td>SMA 2171</td><td>Geometry</td><td>A</td></tr>
+<tr class="odd">
+<td>EEE 2110</td><td>Workshop Practice II</td><td>A</td></tr>
+<tr class="even">
+<td>SCH 2109</td><td>Chemistry I</td><td>A</td></tr>
+<tr class="odd">
+<td>EME 2102</td><td>Workshop Practice I</td><td>B</td></tr>
+<tr class="even">
+<td>HRD 2101</td><td>Communication Skills</td><td>B</td></tr>
+<tr class="odd">
+<td>SMA 2172</td><td>Calculus  I</td><td>B</td></tr>
+<tr class="even">
+<td>SMA 2170</td><td>Algebra</td><td>B</td></tr>
+<tr class="odd">
+<td>SPH 2170</td><td>Physics I</td><td>B</td></tr>
+<tr class="even">
+<td>EME 2102</td><td>Workshop Practice I</td><td>B</td></tr>
+<tr class="odd">
+<td>HRD 2101</td><td>Communication Skills</td><td>B</td></tr>
+<tr class="even">
+<td>SMA 2172</td><td>Calculus  I</td><td>B</td></tr>
+<tr class="odd">
+<td>SMA 2170</td><td>Algebra</td><td>B</td></tr>
+<tr class="even">
+<td>SPH 2170</td><td>Physics I</td><td>B</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/exam/index"><span>380508</span><span>386024</span><span>387065</span><span>473433</span><span>478949</span><span>479990</span><span>381535</span><span>382049</span><span>385095</span><span>386318</span><span>386870</span><span>474460</span><span>474974</span><span>478020</span><span>479243</span><span>479795</span></div>
+</div>		<div>
+					</div>
+
+   </div>
+
+	</div><!-- content -->
+</div>
+	</div>
+
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2018 JKUAT. All Rights Reserved.
+	</div><!-- footer -->
+</div><!-- page -->
+ <p class="disclaimer">
+    <strong> DISCLAIMER: <br/></strong>
+	<i>This document has been printed from the JKUAT students' portal. It is for informational purposes only and should not be presented as the official document to any entity whatsoever. For official documents, kindly refer to JKUAT Students Finance office or the relevant office concerned.</i>
+</p>
+<script type="text/javascript" src="/assets/aa8037ef/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('body').on('change','#Marks_year_of_study',function(){jQuery.yii.submitForm(this,'/exam/index',{});return false;});
+jQuery('#unit-grid').yiiGridView({'ajaxUpdate':['unit-grid'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}','pageVar':'page'});
+});
+/*]]>*/
+</script>
+</body>
+</html>
+	

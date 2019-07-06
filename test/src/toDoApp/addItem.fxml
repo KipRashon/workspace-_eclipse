@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="410.0" prefWidth="582.0" style="-fx-background-color: #750a20;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="toDoApp.addItemController">
+   <children>
+      <Label alignment="CENTER" layoutX="228.0" layoutY="22.0" prefHeight="53.0" prefWidth="141.0" text=" To Do" textFill="#f3f4f5">
+         <font>
+            <Font name="Bodoni MT Bold" size="36.0" />
+         </font>
+      </Label>
+      <AnchorPane fx:id="pane" layoutY="80.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="329.0" prefWidth="581.0" style="-fx-background-color: #49642f;">
+         <children>
+            <ImageView fx:id="addButton" fitHeight="53.0" fitWidth="61.0" layoutX="291.0" layoutY="151.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../assets/add.png" />
+               </image>
+            </ImageView>
+            <Label fx:id="notasklabel" alignment="CENTER" layoutX="146.0" layoutY="31.0" prefHeight="62.0" prefWidth="343.0" text="No tasks for Today Yet ! " textFill="#c9bbbd">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

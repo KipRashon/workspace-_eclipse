@@ -1,0 +1,16 @@
+package testproject;
+
+
+
+class FreshJuice{
+	enum FreshJuiceSize{MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY,SUNDAY};
+	FreshJuiceSize size;
+}
+public class Juice {
+	public static void main(String args[])
+	{
+		FreshJuice juice= new FreshJuice();
+		juice.size=FreshJuice.FreshJuiceSize.MONDAY;
+		System.out.println(juice.size);
+	}
+}

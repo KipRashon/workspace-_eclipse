@@ -1,0 +1,17 @@
+import java.io.*;
+import java.util.*;
+
+public class readFile{
+	public static void main(String args[]) throws Exception {
+		File f= new File("C:\\Users\\Rashon\\Documents\\study\\material_science.txt");
+		FileReader st= new FileReader(f);
+		BufferedReader br=new BufferedReader(st);
+		String line;
+		while((line=br.readLine())!=null) {
+			System.out.println(line);
+			Thread.sleep(3000);
+		}
+		
+		
+	}
+}

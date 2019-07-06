@@ -1,0 +1,5 @@
+package com.kiptoo.struts2;
+
+public class HelloWorldAction {
+
+}

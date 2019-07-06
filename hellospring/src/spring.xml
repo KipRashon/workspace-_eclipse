@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+<bean id="dog" class="main.dog" >
+<property name="name" value="Umbwa"></property>
+</bean>
+
+<bean id="cat" class="main.Cat" >
+<constructor-arg value="Paka "></constructor-arg>
+<constructor-arg value="56 "></constructor-arg>
+</bean>
+
+
+</beans>

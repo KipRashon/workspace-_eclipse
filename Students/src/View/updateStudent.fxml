@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="container" prefHeight="456.0" prefWidth="855.0" style="-fx-background-color: #4A4D50;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Control.UpdateStudent">
+   <children>
+      <TextField fx:id="fname" layoutX="56.0" layoutY="106.0" prefHeight="26.0" prefWidth="234.0" promptText="First Name" />
+      <TextField fx:id="lname" layoutX="414.0" layoutY="106.0" prefHeight="26.0" prefWidth="234.0" promptText="Last Name" />
+      <TextField fx:id="stream" layoutX="56.0" layoutY="154.0" prefHeight="26.0" prefWidth="234.0" promptText="Stream" />
+      <TextField fx:id="form" layoutX="414.0" layoutY="154.0" prefHeight="26.0" prefWidth="234.0" promptText="Form" />
+      <TextField fx:id="age" layoutX="56.0" layoutY="214.0" prefHeight="26.0" prefWidth="234.0" promptText="Age" />
+      <TextField fx:id="admission" layoutX="416.0" layoutY="206.0" prefHeight="26.0" prefWidth="234.0" promptText="Admission Number" />
+      <DatePicker fx:id="date" layoutX="411.0" layoutY="280.0" prefHeight="26.0" prefWidth="240.0" promptText="Date of birth" />
+      <ComboBox fx:id="gender" layoutX="55.0" layoutY="279.0" prefHeight="28.0" prefWidth="237.0" promptText="Gender" />
+      <Button fx:id="save" layoutX="292.0" layoutY="384.0" mnemonicParsing="false" prefHeight="32.0" prefWidth="166.0" text="Save" />
+   </children>
+</AnchorPane>

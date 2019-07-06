@@ -1,0 +1,45 @@
+INDEX VERSION 1.131
+F:\Workspaces\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1173007322.index
+\web\src
+F:\Workspaces\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1187691259.index
+\StrutsFirstProject\src
+F:\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\103270366.index
+\web1\src
+F:\Workspaces\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\980317798.index
+\NjiiriSchool\src
+F:\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1722330813.index
+\jstl\src
+F:\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1173007322.index
+\web\src
+F:\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2466200729.index
+\jaxb\src
+F:\Workspaces\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1302177904.index
+\Edimon\src
+F:\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\800378576.index
+\servlet\src
+F:\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\401805398.index
+\project1\src
+F:\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3433951404.index
+\usebean\src
+F:\Workspaces\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1999525111.index
+\HelloStruts\src
+F:\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2286319862.index
+\JSTL\src
+F:\Workspaces\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2466200729.index
+\jaxb\src
+F:\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4135720641.index
+\web1\src
+F:\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1302177904.index
+\Edimon\src
+F:\Workspaces\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2286319862.index
+\JSTL\src
+F:\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1975209034.index
+\myregistration\src
+F:\Workspaces\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2622955373.index
+\NjiiriSchool\src
+F:\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2965174927.index
+\project1\src
+F:\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2162282335.index
+\myproject\src
+F:\Workspaces\workspace _eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4135720641.index
+\web1\src

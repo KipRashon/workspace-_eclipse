@@ -1,0 +1,42 @@
+package code;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.databaseAccess.DAO;
+
+import beans.rss;
+
+/**
+ * Servlet implementation class AddPostServlet
+ */
+@WebServlet("/addpost")
+public class AddPostServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+	private DAO dao;
+	private rss rs;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public AddPostServlet() {
+        super();
+        dao=new DAO();
+        rs=new rss();
+        // TODO Auto-generated constructor stub
+    }
+
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		rs.setDescription(request.getParameter("description"));
+		rs.setTitle(request.getParameter("eventname"));
+		dao.insertFeeds(rs, response, request);
+		
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HelloStruts/WebContent/WEB-INF/classes/loggin.properties&apos; to &apos;logging.properties&apos;" description="Rename resource &apos;loggin.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/classes/loggin.properties" name="logging.properties" stamp="1555227476872" updateReferences="true"/>
+</session>

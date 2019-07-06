@@ -1,0 +1,47 @@
+package code;
+
+import java.util.Random;
+
+public class Practice {
+
+	public static void main(String[] args) {
+		for(int i=0;i<100;i++) {
+			System.out.println(generateRandomChar());
+		}
+
+	}
+	public static Character generateRandomChar() {
+		Random rand= new Random();
+		int a= rand.nextInt(122);
+		if(a<65) {
+		return	generateRandomChar();
+			
+			
+		}
+		else {
+			if(checkIfAlphabet((char)a)) {
+				return (char)a;
+			}
+			else {
+				return generateRandomChar();
+				
+			}
+			
+		}
+	}
+	private static boolean checkIfAlphabet(char generatedChar) {
+		String smallLetters="abcdefghijklmnopqrstuvwxyz";
+		String capitalLetters=smallLetters.toUpperCase();
+		
+		char []smallChar=smallLetters.toCharArray();
+		char[]capitalChar=capitalLetters.toCharArray();
+		
+		for(int i=0;i<smallChar.length;i++) {
+			boolean tof=((smallChar[i]==generatedChar));
+			return tof;
+		}
+		return false;
+		
+	}
+	
+}

@@ -1,0 +1,23 @@
+package game;
+
+import java.awt.Color;
+
+import javax.swing.JComponent;
+import javax.swing.JFrame;
+import javax.swing.WindowConstants;
+
+public class BouncingBabiesGame  extends JComponent{
+	public static void main(String args[])
+	{
+		JFrame window = new JFrame("SAve the babies");
+		BouncingBabiesGame game= new BouncingBabiesGame();
+		window.add(game);
+		//allows the game to resize to the size of the window
+		window.pack();
+		window.setLocationRelativeTo(null);
+		window.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+		window.setVisible(true);
+		window.setBackground(new Color(23,78,90));
+	}
+
+}

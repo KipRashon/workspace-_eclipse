@@ -1,0 +1,505 @@
+
+Dec 14, 2018 11:49:36.21 NEW SESSION
+Dec 14, 2018 11:49:36.21 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 11:49:37.33 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 11:49:38.60 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 11:49:41.58 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 11:49:43.77 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 11:49:45.11 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 11:49:52.26 
+Dec 14, 2018 11:49:52.26 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Dec 14, 2018 11:49:52.27 
+Dec 14, 2018 11:49:52.27 
+Dec 14, 2018 11:49:52.27 ###!!! [Parent][MessageChannel] Error: (msgtype=0x160080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Dec 14, 2018 11:49:52.27 
+Dec 14, 2018 11:49:54.21 
+Dec 14, 2018 11:49:54.24 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 14, 2018 11:49:54.26 
+Dec 14, 2018 12:00:44.47 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:00:44.90 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:00:45.92 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:00:49.65 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:00:49.76 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:00:51.57 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:02:19.52 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:02:20.60 [Child 6404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:02:20.60 [Child 6404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:02:45.39 [Child 5916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:02:45.43 
+Dec 14, 2018 12:02:45.43 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Dec 14, 2018 12:02:45.46 
+Dec 14, 2018 12:02:45.46 
+Dec 14, 2018 12:02:45.53 ###!!! [Parent][MessageChannel] Error: (msgtype=0x160080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Dec 14, 2018 12:02:45.54 
+Dec 14, 2018 12:02:46.67 
+Dec 14, 2018 12:02:46.70 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 14, 2018 12:02:46.73 
+Dec 14, 2018 12:04:58.94 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:04:59.42 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:05:00.45 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:05:03.05 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:05:04.38 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:05:06.27 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:06:17.17 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:09:03.70 [Parent 5996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:09:03.72 [Child 4760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:09:03.72 [Child 4760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:09:20.87 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:10:34.67 [Child 10112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:10:34.67 [Child 10112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:10:35.76 [Child 11000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:10:35.76 [Child 11000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:11:51.93 [Parent 5996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:11:51.93 [Child 7248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:11:51.93 [Child 7248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:16:37.21 [Child 4052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:16:37.24 [Child 8084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:16:38.19 
+Dec 14, 2018 12:16:38.22 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 14, 2018 12:16:38.24 
+Dec 14, 2018 12:17:23.37 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:17:23.82 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:17:24.80 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:17:27.51 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:17:28.66 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:17:30.10 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:18:26.23 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:18:45.84 [Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:18:45.84 [Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:21:28.49 [Child 8760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:24:26.65 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:28:10.65 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:29:32.06 [Child 7516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:29:32.07 [Child 7516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:29:33.26 [Parent 8712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:29:33.26 [Child 4352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:29:33.27 [Child 4352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:29:34.89 [Child 8636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:29:35.00 [Child 8636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:38:17.80 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:38:20.95 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 12:40:15.62 [Child 9108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 12:40:17.29 
+Dec 14, 2018 12:40:17.34 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 14, 2018 12:40:17.36 
+Dec 14, 2018 13:49:29.12 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 13:49:30.15 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 13:49:31.21 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 13:49:34.96 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 13:49:39.25 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 13:49:39.71 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 13:52:25.22 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 13:56:27.06 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+Dec 14, 2018 13:56:27.17 [Child 9072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 13:56:27.17 [Child 9072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 13:57:14.39 IPDL protocol error: Handler returned error code!
+Dec 14, 2018 13:57:14.40 
+Dec 14, 2018 13:57:14.41 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 14, 2018 13:57:14.41 
+Dec 14, 2018 14:00:35.80 IPDL protocol error: Handler returned error code!
+Dec 14, 2018 14:00:35.82 
+Dec 14, 2018 14:00:35.83 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 14, 2018 14:00:35.87 
+Dec 14, 2018 14:01:31.06 [GPU 11888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 14, 2018 14:01:31.20 
+Dec 14, 2018 14:01:31.25 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 14, 2018 14:01:31.27 
+
+Dec 15, 2018 12:48:52.77 NEW SESSION
+Dec 15, 2018 12:48:52.77 [Child 7052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 12:48:52.88 [Child 7052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 12:49:46.20 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 12:49:46.20 
+Dec 15, 2018 12:49:46.21 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 12:49:46.21 
+Dec 15, 2018 13:01:15.98 [Child 10816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:01:15.98 [Child 10816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:01:39.19 [Child 10620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:01:39.20 [Child 10620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:02:26.56 [Parent 8908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:02:26.58 [Child 10100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:02:26.59 [Child 10100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:09:54.03 [Child 2100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:09:54.03 [Child 2100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:10:07.74 [Parent 8908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:10:07.75 [Child 10176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:10:27.47 [Child 10176, Chrome_ChildThread] WAR[Child 10932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:10:27.48 [Child 10932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:11:22.54 [Child 5792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:11:22.56 [Child 5792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:11:52.94 [Child 7064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:11:52.94 [Child 7064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:13:16.13 [Child 10196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:13:16.14 [Child 10196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:14:08.02 [Child 10868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:14:08.02 [Child 10868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:15:01.32 [Parent 8908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:15:01.34 [Child 5248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:15:53.11 [Child 5248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bui[Child 2436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:19:50.48 [Child 2436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chan[Child 15176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 13:19:50.49 [Child 15176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+Dec 15, 2018 18:41:03.33 NEW SESSION
+Dec 15, 2018 18:41:03.33 [Parent 9908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 18:41:04.62 [GPU 15932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 18:41:05.06 
+Dec 15, 2018 18:41:05.08 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 15, 2018 18:41:05.09 
+
+Dec 15, 2018 20:58:50.39 NEW SESSION
+Dec 15, 2018 20:58:50.39 [Child 10964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 21:08:01.59 [Child 4436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 21:08:14.25 [Child 4436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bIPDL protocol error: Handler returned error code!
+Dec 15, 2018 21:08:14.25 
+Dec 15, 2018 21:08:14.25 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 21:08:14.26 
+Dec 15, 2018 21:09:41.09 [Child 12392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 21:09:41.10 [Child 12392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 21:10:01.13 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 21:10:01.13 
+Dec 15, 2018 21:10:01.14 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 21:10:01.14 
+Dec 15, 2018 21:10:03.32 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 21:10:03.32 
+Dec 15, 2018 21:10:03.33 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 21:10:03.34 
+Dec 15, 2018 21:12:27.37 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 21:12:27.38 
+Dec 15, 2018 21:12:27.38 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 21:12:27.38 
+Dec 15, 2018 22:06:03.82 [Parent 3936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 22:06:03.84 [Child 2072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 22:06:03.85 [Child 2072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 22:08:17.73 [Parent 3936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 22:08:17.73 [Child 9704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 22:08:17.74 [Child 9704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 22:14:41.30 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 22:14:41.30 
+Dec 15, 2018 22:14:41.31 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 22:14:41.31 
+Dec 15, 2018 22:14:56.87 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 22:14:56.90 
+Dec 15, 2018 22:14:56.98 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 22:14:57.04 
+Dec 15, 2018 22:15:03.77 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 22:15:03.77 
+Dec 15, 2018 22:15:03.78 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 22:15:03.80 
+Dec 15, 2018 22:15:08.69 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 22:15:08.70 
+Dec 15, 2018 22:15:08.70 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 22:15:08.70 
+Dec 15, 2018 22:15:15.83 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 22:15:15.85 
+Dec 15, 2018 22:15:15.89 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 22:15:15.90 
+Dec 15, 2018 22:15:16.94 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 22:15:16.97 
+Dec 15, 2018 22:15:17.01 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 22:15:17.05 
+Dec 15, 2018 22:15:27.57 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 22:15:27.64 
+Dec 15, 2018 22:15:27.71 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 22:15:27.73 
+Dec 15, 2018 22:16:43.29 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 22:16:43.30 
+Dec 15, 2018 22:16:43.30 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 22:16:43.30 
+Dec 15, 2018 22:31:46.27 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 22:31:46.28 
+Dec 15, 2018 22:31:46.29 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 22:31:46.29 
+Dec 15, 2018 22:50:24.58 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 22:50:24.59 
+Dec 15, 2018 22:50:24.63 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 22:50:24.67 
+Dec 15, 2018 22:50:27.43 IPDL protocol error: Handler returned error code!
+Dec 15, 2018 22:50:27.47 
+Dec 15, 2018 22:50:27.55 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 15, 2018 22:50:27.59 
+Dec 15, 2018 22:57:20.08 [Parent 3936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 15, 2018 22:57:24.91 
+Dec 15, 2018 22:57:24.92 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 15, 2018 22:57:24.92 
+
+Dec 16, 2018 06:51:21.10 NEW SESSION
+Dec 16, 2018 06:51:21.10 IPDL protocol error: Handler returned error code!
+Dec 16, 2018 06:51:21.21 
+Dec 16, 2018 06:51:21.24 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 16, 2018 06:51:21.31 
+Dec 16, 2018 06:52:50.44 [Child 10976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 16, 2018 07:02:53.28 [[Child 10964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 16, 2018 07:02:53.29 [Child 10964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 16, 2018 07:02:54.48 [Child 7632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 16, 2018 07:02:54.49 [Child 7632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 16, 2018 07:03:17.19 IPDL protocol error: Handler returned error code!
+Dec 16, 2018 07:03:17.20 
+Dec 16, 2018 07:03:17.20 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Dec 16, 2018 07:03:17.21 
+
+Dec 18, 2018 10:52:19.09 NEW SESSION
+Dec 18, 2018 10:52:19.10 [Child 8456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 18, 2018 10:52:19.16 [Child 8456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 18, 2018 10:57:59.03 [Parent 9388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 18, 2018 10:57:59.21 [Parent 9388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 18, 2018 10:57:59.21 [Parent 9388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 18, 2018 10:57:59.21 [Child 9820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 18, 2018 10:57:59.22 [Child 9820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 18, 2018 10:57:59.23 [Child 9436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 18, 2018 10:58:01.20 [Child 9436, Chrome_ChildThread] WARNING: pipe error: 109: file z
+Dec 18, 2018 10:58:01.23 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 18, 2018 10:58:01.24 
+
+Dec 26, 2018 14:06:47.21 NEW SESSION
+Dec 26, 2018 14:06:47.21 [Parent 812, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+Dec 26, 2018 14:06:47.30 [Parent 812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 26, 2018 14:06:47.30 [Parent 812, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+Dec 26, 2018 14:06:47.31 [Child 10348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 26, 2018 14:06:47.31 
+Dec 26, 2018 14:06:47.32 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Dec 26, 2018 14:06:47.32 
+Dec 26, 2018 14:06:47.32 
+Dec 26, 2018 14:06:47.32 ###!!! [Parent][MessageChannel] Error: (msgtype=0x160080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Dec 26, 2018 14:06:47.32 
+Dec 26, 2018 14:06:49.72 
+Dec 26, 2018 14:06:49.74 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 26, 2018 14:06:49.76 
+
+Dec 27, 2018 10:23:32.42 NEW SESSION
+Dec 27, 2018 10:23:32.42 [Parent 10408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:30:55.64 [Parent 10408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:30:55.67 [Child 4380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:30:55.68 [Child 4380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:32:10.87 [Child 2268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:32:10.88 [Child 2268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:32:29.99 [Child 9448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:32:30.01 [Child 9448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:32:36.63 [Parent 10408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:32:39.04 
+Dec 27, 2018 10:32:39.06 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 27, 2018 10:32:39.06 
+Dec 27, 2018 10:33:40.95 [Parent 2752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:33:40.96 [Parent 2752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:33:40.97 [Child 11184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:33:40.99 [Child 11184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:33:41.08 [Parent 2752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:33:41.10 
+Dec 27, 2018 10:33:41.11 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Dec 27, 2018 10:33:41.12 
+Dec 27, 2018 10:33:41.13 
+Dec 27, 2018 10:33:41.14 ###!!! [Parent][MessageChannel] Error: (msgtype=0x160080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Dec 27, 2018 10:33:41.14 
+Dec 27, 2018 10:33:45.04 
+Dec 27, 2018 10:33:45.11 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 27, 2018 10:33:45.15 
+Dec 27, 2018 10:35:26.36 [Parent 11028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:35:26.37 [Child 2552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:57:47.46 [Child 10772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 10:57:47.49 [Child 10772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:02:05.47 [Child 9768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:02:05.66 [Child 9768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:07:19.16 [Child 7448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:07:19.18 [Child 7448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:09:38.48 [Parent 11028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:09:38.49 [Child 10864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:09:38.50 [Child 10864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:10:05.89 [Child 1028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:10:05.90 [Child 1028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:16:30.53 [Child 7120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:16:30.54 [Child 7120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:18:21.88 [Child 8156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:18:21.89 [Child 8156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:27:05.69 [Parent 11028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:27:05.79 [Child 1600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:27:05.85 [Child 1600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:37:48.95 [Child 8704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:37:48.95 [Child 8704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:37:50.81 [Child 9968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:37:50.82 [Child 9968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:44:35.36 [Parent 11028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:44:35.36 [Child 7204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:44:37.90 [Child 7204, Chrome_ChildThread] WARNIN[Parent 11028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:44:37.91 [Child 4656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:44:37.91 [Child 4656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:44:39.97 [Parent 11028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:44:39.97 [Child 6360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 11:44:39.97 [Child 6360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:20:31.64 [Child 7212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:20:31.65 [Child 7212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:20:33.00 [Parent 11028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:20:33.02 [Child 5924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:20:33.02 [Child 5924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:20:37.58 [Child 9960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:20:37.58 [Child 9960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:22:23.27 [Child 10692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:22:54.89 [Child 10692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[Parent 11028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:22:54.92 [Child 8824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:22:54.93 [Child 8824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:30:10.43 [Child 10648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:30:10.44 [Child 10648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:30:12.12 [Child 5916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:30:12.13 [Child 5916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:30:46.84 [Parent 11028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:30:48.58 
+Dec 27, 2018 12:30:48.60 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 27, 2018 12:30:48.61 
+Dec 27, 2018 12:32:03.38 [Parent 11084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:32:03.40 
+Dec 27, 2018 12:32:03.41 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Dec 27, 2018 12:32:03.41 
+Dec 27, 2018 12:32:03.41 
+Dec 27, 2018 12:32:03.41 ###!!! [Parent][MessageChannel] Error: (msgtype=0x160080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Dec 27, 2018 12:32:03.42 
+Dec 27, 2018 12:32:05.56 
+Dec 27, 2018 12:32:05.64 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 27, 2018 12:32:05.65 
+Dec 27, 2018 12:32:39.71 
+Dec 27, 2018 12:32:39.74 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Dec 27, 2018 12:32:39.75 
+Dec 27, 2018 12:32:39.76 
+Dec 27, 2018 12:32:39.77 ###!!! [Parent][MessageChannel] Error: (msgtype=0x160080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Dec 27, 2018 12:32:39.78 
+Dec 27, 2018 12:32:39.78 [Child 1068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:32:39.79 [Child 1068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:32:39.80 [Child 6244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:32:46.44 [Child 6244, Chrome_ChildThread] WARNING: pi
+Dec 27, 2018 12:32:46.49 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 27, 2018 12:32:46.54 
+Dec 27, 2018 12:32:46.60 [Parent 688, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+Dec 27, 2018 12:34:21.73 [Parent 10960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:34:21.82 
+Dec 27, 2018 12:34:21.82 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Dec 27, 2018 12:34:21.89 
+Dec 27, 2018 12:34:21.94 
+Dec 27, 2018 12:34:21.95 ###!!! [Parent][MessageChannel] Error: (msgtype=0x160080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Dec 27, 2018 12:34:21.95 
+Dec 27, 2018 12:34:24.03 [GPU 2644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:34:24.54 
+Dec 27, 2018 12:34:24.57 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 27, 2018 12:34:24.58 
+Dec 27, 2018 12:37:03.82 [Parent 3464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:37:03.92 [Child 5916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:37:03.96 [Child 5916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:37:03.98 [Parent 3464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:37:04.00 
+Dec 27, 2018 12:37:04.03 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Dec 27, 2018 12:37:04.04 
+Dec 27, 2018 12:37:04.04 
+Dec 27, 2018 12:37:04.05 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Dec 27, 2018 12:37:04.06 
+Dec 27, 2018 12:37:04.06 
+Dec 27, 2018 12:37:04.07 ###!!! [Parent][MessageChannel] Error: (msgtype=0x160080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Dec 27, 2018 12:37:04.07 
+Dec 27, 2018 12:37:06.54 
+Dec 27, 2018 12:37:06.58 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 27, 2018 12:37:06.62 
+Dec 27, 2018 12:40:05.41 [Child 4712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:43:29.52 [Child 9348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:43:29.53 [Child 9348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:43:31.30 [Child 3744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:43:31.30 [Child 3744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:44:11.95 [Parent 10720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:44:11.96 [Child 8120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:49:52.70 [Child 8120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[Child 10672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:49:52.72 [Child 10672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:51:24.04 [Child 2612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:51:24.10 [Child 2612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:54:25.18 [Parent 10720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:54:25.29 [Child 4864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:54:25.31 [Child 10984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:54:25.34 [Parent 10720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:54:26.38 [GPU 10260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:54:26.69 
+Dec 27, 2018 12:54:26.73 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 27, 2018 12:54:26.74 
+Dec 27, 2018 12:58:01.13 [Parent 5540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:58:01.18 [Parent 5540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:58:01.22 [Parent 5540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 12:58:01.25 
+Dec 27, 2018 12:58:01.26 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Dec 27, 2018 12:58:01.26 
+Dec 27, 2018 12:58:01.27 
+Dec 27, 2018 12:58:01.27 ###!!! [Parent][MessageChannel] Error: (msgtype=0x160080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Dec 27, 2018 12:58:01.28 
+Dec 27, 2018 12:58:03.79 
+Dec 27, 2018 12:58:03.84 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 27, 2018 12:58:03.84 
+Dec 27, 2018 13:05:57.57 [Child 392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 13:05:57.61 [Child 392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 13:05:57.64 
+Dec 27, 2018 13:05:57.69 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Dec 27, 2018 13:05:57.70 
+Dec 27, 2018 13:05:57.70 
+Dec 27, 2018 13:05:57.70 ###!!! [Parent][MessageChannel] Error: (msgtype=0x160080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Dec 27, 2018 13:05:57.71 
+Dec 27, 2018 13:05:59.85 
+Dec 27, 2018 13:05:59.88 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 27, 2018 13:05:59.89 
+Dec 27, 2018 13:07:14.89 [Parent 8716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 13:07:14.98 [Parent 8716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 13:07:14.99 [Child 1552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 13:07:15.04 [Child 1552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line
+Dec 27, 2018 13:07:15.06 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Dec 27, 2018 13:07:15.06 
+Dec 27, 2018 13:07:15.06 
+Dec 27, 2018 13:07:15.07 ###!!! [Parent][MessageChannel] Error: (msgtype=0x160080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Dec 27, 2018 13:07:15.07 
+Dec 27, 2018 13:07:15.07 [Child 3200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 13:07:15.07 [Child 3200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 13:07:17.28 
+Dec 27, 2018 13:07:17.31 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 27, 2018 13:07:17.31 
+Dec 27, 2018 13:08:35.26 [Parent 5024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 13:08:35.27 [Parent 5024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 13:08:35.40 
+Dec 27, 2018 13:08:35.43 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Dec 27, 2018 13:08:35.44 
+Dec 27, 2018 13:08:35.48 
+Dec 27, 2018 13:08:35.53 ###!!! [Parent][MessageChannel] Error: (msgtype=0x160080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Dec 27, 2018 13:08:35.58 
+Dec 27, 2018 13:08:37.21 [GPU 3624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 13:08:37.85 
+Dec 27, 2018 13:08:37.87 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 27, 2018 13:08:37.89 
+Dec 27, 2018 13:20:00.43 [Parent 10400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 13:20:01.93 [GPU 10560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Dec 27, 2018 13:20:02.99 
+Dec 27, 2018 13:20:03.02 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Dec 27, 2018 13:20:03.03 
+
+Jan 30, 2019 20:01:45.88 NEW SESSION
+Jan 30, 2019 20:01:45.88 [Parent 11220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 30, 2019 20:01:45.94 [Child 3756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+Jan 31, 2019 09:50:15.67 NEW SESSION
+Jan 31, 2019 09:50:15.67 ??????????p: T??????????p: T??????????p: T
+Jan 31, 2019 09:50:15.76 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jan 31, 2019 09:50:15.79 
+
+Jan 31, 2019 11:26:33.86 NEW SESSION
+Jan 31, 2019 11:26:33.86 [Parent 10260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Jan 31, 2019 11:26:33.96 [Parent 10260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Jan 31, 2019 11:26:33.99 [Parent 10260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Jan 31, 2019 11:26:35.39 
+Jan 31, 2019 11:26:35.41 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jan 31, 2019 11:26:35.41 
+Jan 31, 2019 13:05:45.51 [Child 4648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Jan 31, 2019 13:05:47.95 [Child 4648, Chrome_C
+Jan 31, 2019 13:05:47.96 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jan 31, 2019 13:05:47.99 
+
+Apr 09, 2019 01:11:42.51 NEW SESSION
+Apr 09, 2019 01:11:42.51 [Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Apr 09, 2019 01:11:42.69 [Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Apr 09, 2019 01:11:43.16 [Parent 5556, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+Apr 09, 2019 01:17:43.15 [Child 10004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Apr 09, 2019 01:17:43.18 [Child 10004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Apr 09, 2019 01:22:23.33 [Child 10248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Apr 09, 2019 01:22:23.35 [Child 10248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Apr 09, 2019 01:28:38.21 [Child 5888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Apr 09, 2019 01:28:38.21 [Child 5888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Apr 09, 2019 01:42:33.84 [Parent 5556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Apr 09, 2019 01:42:34.92 
+Apr 09, 2019 01:42:34.92 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Apr 09, 2019 01:42:34.92 
+Apr 09, 2019 01:42:34.94 [Parent 5556, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493

@@ -1,0 +1,22 @@
+package xssf.workbook;
+
+import java.io.File;
+import java.io.FileOutputStream;
+
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class CreateWorkBook {
+	public static void main(String args[]) throws Exception
+	{
+		//Create a blank workbook
+		XSSFWorkbook workbook= new XSSFWorkbook();
+		//create file system using specific name
+		FileOutputStream out= new FileOutputStream(new File("createWorkbook.xlsx"));
+		//write the operation workbook using the file out object
+		workbook.write(out);
+		out.close();
+		System.out.println("The work book was created succesfully");
+		workbook.close();
+	}
+
+}
