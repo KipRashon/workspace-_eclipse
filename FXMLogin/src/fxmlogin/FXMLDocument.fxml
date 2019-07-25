@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXPasswordField?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="455.0" prefWidth="771.0" style="-fx-background-color: #20120F;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fxmlogin.FXMLDocumentController">
+   <children>
+      <AnchorPane layoutX="385.0" layoutY="13.0" opacity="0.98" prefHeight="462.0" prefWidth="372.0" style="-fx-background-color: #A63526;">
+         <children>
+            <Button alignment="CENTER" layoutX="46.0" layoutY="337.0" mnemonicParsing="false" opacity="0.59" prefHeight="36.0" prefWidth="264.0" style="-fx-background-color: #E65E4F;" text="Sign In" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Button>
+            <Label alignment="CENTER" layoutX="78.0" layoutY="54.0" prefHeight="45.0" prefWidth="140.0" text="Sign In" textFill="WHITE">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+            <JFXTextField alignment="CENTER" labelFloat="true" layoutX="45.0" layoutY="134.0" prefHeight="25.0" prefWidth="264.0" promptText="Username / Email" unFocusColor="#f8fcfb">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </JFXTextField>
+            <JFXPasswordField alignment="CENTER" layoutX="45.0" layoutY="223.0" prefHeight="25.0" prefWidth="264.0" promptText="Password" unFocusColor="#f2f2f2">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </JFXPasswordField>
+            <Hyperlink layoutX="122.0" layoutY="284.0" prefHeight="23.0" prefWidth="154.0" text="Forgot Password?" textFill="#569fe8">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Hyperlink>
+         </children>
+      </AnchorPane>
+      <ImageView fitHeight="487.0" fitWidth="360.0" layoutX="6.0" opacity="0.35" pickOnBounds="true">
+         <image>
+            <Image url="@../image/image.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="20.0" layoutY="37.0" prefHeight="127.0" prefWidth="332.0" text="        Welcome &#10; Kiptoo  Systems" textFill="#ebeeea">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Label>
+      <Label layoutX="20.0" layoutY="164.0" prefHeight="17.0" prefWidth="304.0" text="      With us Tommorow is brighter" textFill="#b5e8d9">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Label>
+      <Button layoutX="47.0" layoutY="351.0" mnemonicParsing="false" opacity="0.59" prefHeight="36.0" prefWidth="264.0" style="-fx-background-color: #E65E4F;" text="Sign Up" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
